@@ -1,9 +1,17 @@
-# math
-实变函数与泛函分析
+# MATH for PhD
 
 
-1. 测度论
+### Mearsure Theory
 
-- 1.1 可测空间
-- 1.2 Borel field
-- 1.3 一元随机变量，二元随机变量，多元随机变量
+### Real Analysis
+
+### Caculus
+
+### Probabiliby
+
+- quick review: [All of Statistics: A Concise Course in
+Statistical Inference ](https://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf)
+- Theory: [Statistical Inference]https://fsalamri.files.wordpress.com/2015/02/casella_berger_statistical_inference1.pdf
+- Notes: From Teacher
+
+
