@@ -5,7 +5,7 @@
 
 ### Real Analysis
 
-### Caculus
+### Calculus
 
 ### Probabiliby
 
