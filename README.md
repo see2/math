@@ -7,6 +7,14 @@
 
 ### Calculus
 
+Review of D.E. :
+
+https://www.jirka.org/diffyqs/diffyqs.pdf
+
+https://www.math.ucdavis.edu/~tracy/courses/math22B/22BBook.pdf  
+
+https://www.math.cuhk.edu.hk/course_builder/1617/math1010e/Mathematical%20Formula%20Handbook.pdf (cheat sheet)
+
 ### Probabiliby
 
 - quick review: [All of Statistics: A Concise Course in
